@@ -2,6 +2,6 @@
   "schemaVersion": "cosmos-logos@1.0",
   "id": "resolver1",
   "role": "registry",
-  "inheritsFrom": "https://github.com/cosmos-logos/alpha/raw/brain/7.7.7.7/source_of_truth/cosmos-logos.json",
+  "inheritsFrom": "https://raw.githubusercontent.com/cosmos-logos/alpha/refs/heads/brain/7777/source_of_truth/cosmos-logos.json",
   "agents": []
 }
